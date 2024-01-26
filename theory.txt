@@ -1,0 +1,2 @@
+Store
+- terdiri dari beberapa slice, yang slice ini nantinya akan membentuk sebuah state
